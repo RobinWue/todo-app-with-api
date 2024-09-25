@@ -1,13 +1,1 @@
-0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
-1 info using npm@10.8.1
-2 info using node@v20.16.0
-3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
-4 silly config load:file:C:\Users\robyw\Desktop\Coding\Restful-Backends\03-local-setup-of-the-todo-api\todo-app-with-api\.npmrc
-5 silly config load:file:C:\Users\robyw\.npmrc
-6 silly config load:file:C:\Users\robyw\AppData\Roaming\npm\etc\npmrc
-7 verbose title npm exec serve -l 8080
-8 verbose argv "exec" "--" "serve" "-l" "8080"
-9 verbose logfile logs-max:10 dir:C:\Users\robyw\Desktop\Coding\Restful-Backends\03-local-setup-of-the-todo-api\todo-app-with-api\src\UsersrobywAppDataLocalnpm-cache\_logs\2024-09-23T09_17_07_667Z-
-10 verbose logfile C:\Users\robyw\Desktop\Coding\Restful-Backends\03-local-setup-of-the-todo-api\todo-app-with-api\src\UsersrobywAppDataLocalnpm-cache\_logs\2024-09-23T09_17_07_667Z-debug-0.log
-11 silly logfile done cleaning log files
-12 http fetch GET 200 https://registry.npmjs.org/npm 258ms
+
